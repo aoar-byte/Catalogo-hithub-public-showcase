@@ -16,13 +16,10 @@ Plataforma full-stack de gerenciamento de catálogo musical com:
 - 🔗 **Convites por link** com landing page personalizada
 
 ## 🔒 Aviso de Segurança
-
-> **O código-fonte completo está em repositório privado** para proteger:
-> - Lógica de negócio proprietária
+> - O código-fonte completo está em repositório privado para proteger lógica proprietária.
 > - Estrutura de banco de dados
 > - Chaves de API e tokens de acesso
-> 
-> **Acesso ao código pode ser concedido mediante solicitação** para fins de avaliação técnica.
+> - Para avaliadores técnicos: Solicite acesso via Issue ou LinkedIn. Enviarei o convite de colaborador imediatamente. 
 
 ## 🛠️ Stack Tecnológica
 
