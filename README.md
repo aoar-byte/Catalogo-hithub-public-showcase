@@ -55,7 +55,7 @@ Plataforma full-stack de gerenciamento de catálogo musical com:
 - Experiência mobile-first
 
 ### Segurança:
-- URLs de áudio assinadas (expiração 60s)
+- URLs de áudio assinadas (expiração em segundos)
 - Proteção contra download (bloqueio de contexto)
 - Sanitização de inputs
 - Row Level Security (RLS) no banco
